@@ -1,0 +1,10 @@
+﻿body {
+font-family: calibri;
+}
+h1 {
+font-size: 60px;
+border: 2px dashed grey;
+padding: 20px;
+margin: 20px;
+text-align: center;
+}
